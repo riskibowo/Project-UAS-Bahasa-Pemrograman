@@ -1,6 +1,6 @@
-## nama     : Riski probo asadewo
+## Nama     : Riski probo asadewo
 ## kelas    : TI.22.A2
-## nim      : 312210191
+## Nim      : 312210191
 # Project-UAS-Bahasa-Pemrograman
 # Module & Package
 di Praktikum 6 ini saya akan mempraktikan Module & Package
