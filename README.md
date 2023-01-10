@@ -1,6 +1,7 @@
 ## Nama     : Riski probo asadewo
 ## kelas    : TI.22.A2
 ## Nim      : 312210191
+[Implementasi Sistem Informasi Penilaian Mahasiswa dengan Menggunakan Package dan Modul di Python1.pdf](https://github.com/riskibowo/Project-UAS-Bahasa-Pemrograman/files/10378446/Implementasi.Sistem.Informasi.Penilaian.Mahasiswa.dengan.Menggunakan.Package.dan.Modul.di.Python1.pdf)
 # Project-UAS-Bahasa-Pemrograman
 # Module & Package
 di Praktikum 6 ini saya akan mempraktikan Module & Package
